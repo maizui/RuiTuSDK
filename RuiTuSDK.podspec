@@ -16,7 +16,7 @@ Pod::Spec.new do |spec|
   #
 
   spec.name         = "RuiTuSDK"
-  spec.version      = "0.0.2"
+  spec.version      = "0.0.3"
   spec.summary      = "瑞途节油宝SDK"
 
   # This description is used to generate tags and improve search results.
