@@ -1,11 +1,4 @@
 framework module RuiTuSDK {
-  umbrella header "RuiTuSDK.h"
-
-  export *
-  module * { export * }
-}
-
-module RuiTuSDK.Swift {
   header "RuiTuSDK-Swift.h"
   requires objc
 }

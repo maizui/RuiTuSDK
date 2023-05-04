@@ -8,13 +8,9 @@
 		<data>
 		f7nRIU6hkvv6G7edG7IXMw+fJdw=
 		</data>
-		<key>Headers/RuiTuSDK.h</key>
-		<data>
-		AngbzldBvM4nBRD/Z9qBspFYniw=
-		</data>
 		<key>Info.plist</key>
 		<data>
-		Heayta648963251ra1JtZSGhI/o=
+		3/KnbMc3m93htDSjZm1rcqVt+4w=
 		</data>
 		<key>LICENSE</key>
 		<data>
@@ -22,31 +18,23 @@
 		</data>
 		<key>Modules/RuiTuSDK.swiftmodule/Project/arm64-apple-ios.swiftsourceinfo</key>
 		<data>
-		AeN3OXWk79zzU0wkM6KAA9qQ1YQ=
+		zbl/sWuNYuZj2cTRVJRrPcrq3hA=
 		</data>
 		<key>Modules/RuiTuSDK.swiftmodule/arm64-apple-ios.abi.json</key>
 		<data>
-		MEs14zR2w3cwkVoja5hMuYbB1q8=
-		</data>
-		<key>Modules/RuiTuSDK.swiftmodule/arm64-apple-ios.private.swiftinterface</key>
-		<data>
-		gRfLhDrif8FmQQY6JLHM7S5QpX0=
+		FSPnLbho3G+LL9smI3XgVOqBIQ4=
 		</data>
 		<key>Modules/RuiTuSDK.swiftmodule/arm64-apple-ios.swiftdoc</key>
 		<data>
 		jKXuYeIIQQXGUrL9RkMJaq6/FsM=
 		</data>
-		<key>Modules/RuiTuSDK.swiftmodule/arm64-apple-ios.swiftinterface</key>
-		<data>
-		gRfLhDrif8FmQQY6JLHM7S5QpX0=
-		</data>
 		<key>Modules/RuiTuSDK.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<data>
-		FnSUjq2It60WVX1t6syNqHFpx1s=
+		B3OSu/YcWd2NcEDI15Sxk72x3LE=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
-		ykP40TQTNZuP8azBHrCeMg6Dmg8=
+		eZx95xxDGSY24TgPauMX20+JgFs=
 		</data>
 		<key>README.md</key>
 		<data>
@@ -66,17 +54,6 @@
 			fRGZcHoOlFI8TToqXosoS3uJqaUd3d5r/cF8bffaBKQ=
 			</data>
 		</dict>
-		<key>Headers/RuiTuSDK.h</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			AngbzldBvM4nBRD/Z9qBspFYniw=
-			</data>
-			<key>hash2</key>
-			<data>
-			tsmcN33ZsZQVTYHd/Q/4IgjPHkfOkwkXTgdW+W4arkU=
-			</data>
-		</dict>
 		<key>LICENSE</key>
 		<dict>
 			<key>hash</key>
@@ -92,33 +69,22 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			AeN3OXWk79zzU0wkM6KAA9qQ1YQ=
+			zbl/sWuNYuZj2cTRVJRrPcrq3hA=
 			</data>
 			<key>hash2</key>
 			<data>
-			EjgyIUVk5RThWnxermJyFqLeKQ7e1xnXjEmCawj+B5w=
+			yLJZ9XUFdqT+Bp8l69QhMS6IWChaiIKPCOpb7zHyJ0s=
 			</data>
 		</dict>
 		<key>Modules/RuiTuSDK.swiftmodule/arm64-apple-ios.abi.json</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			MEs14zR2w3cwkVoja5hMuYbB1q8=
+			FSPnLbho3G+LL9smI3XgVOqBIQ4=
 			</data>
 			<key>hash2</key>
 			<data>
-			dnMZidQFO/JCMxXXMYv19w4j9cJj90M3L33GoLHlLQY=
-			</data>
-		</dict>
-		<key>Modules/RuiTuSDK.swiftmodule/arm64-apple-ios.private.swiftinterface</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			gRfLhDrif8FmQQY6JLHM7S5QpX0=
-			</data>
-			<key>hash2</key>
-			<data>
-			XvnLQLZerhY2BBTNtoLrvdSnkyLB7HcFSdzzbCZRNaw=
+			KnRdWE4y6t4QM5zi5JDptPdHFgJy1Tku+7GLkZS2aNM=
 			</data>
 		</dict>
 		<key>Modules/RuiTuSDK.swiftmodule/arm64-apple-ios.swiftdoc</key>
@@ -132,37 +98,26 @@
 			fZGcCv3FMdBC9V8CABquzF7X+YZAXJLagw1cOYGIXTw=
 			</data>
 		</dict>
-		<key>Modules/RuiTuSDK.swiftmodule/arm64-apple-ios.swiftinterface</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			gRfLhDrif8FmQQY6JLHM7S5QpX0=
-			</data>
-			<key>hash2</key>
-			<data>
-			XvnLQLZerhY2BBTNtoLrvdSnkyLB7HcFSdzzbCZRNaw=
-			</data>
-		</dict>
 		<key>Modules/RuiTuSDK.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			FnSUjq2It60WVX1t6syNqHFpx1s=
+			B3OSu/YcWd2NcEDI15Sxk72x3LE=
 			</data>
 			<key>hash2</key>
 			<data>
-			Zqke9FRutELKMRa4aX0Etvq38JQqkRWLcIpOZa26AQg=
+			tqhrg0j6rPNes7ib90wdSjh0oRsZpEzlqJhJfeGb120=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			ykP40TQTNZuP8azBHrCeMg6Dmg8=
+			eZx95xxDGSY24TgPauMX20+JgFs=
 			</data>
 			<key>hash2</key>
 			<data>
-			HGJarA9F7GL6i+o9ZIwB2/VVDFyPapC3FJK/vofw/MY=
+			4cNBK5rPC3/pHSUqDwGOfyXG6mR8LWtW65O5FUqmlw0=
 			</data>
 		</dict>
 		<key>README.md</key>
